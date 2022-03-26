@@ -3,7 +3,7 @@ import smtplib
 
 def send_email(email, height, average_height, count):
     from_email = "saurabhtayde281091@gmail.com"
-    from_password = "9922661314"
+    from_password = "*********************"
     to_email = email
     subject = 'Height data'
     message = 'Hey there, your height is <strong>%s</strong>. Average height of all is <strong>%s</strong> and it is calculated out of <strong>%s</strong> people.' % (height, average_height, count)
