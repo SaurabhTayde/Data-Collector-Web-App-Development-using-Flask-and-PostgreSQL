@@ -8,7 +8,7 @@ For ex. if user enter his active mail ID and height as 145 cm, then he will reci
 
 Files 'Final_UI_Page1' and 'Final_UI_Page2' are the screenshots Final UI screens. Screenshot of the email recieved - 'Final_Generated_Sample_Email' also attached.
 
-(Please enter active email ID and valid password (from which email will be sent) in the send_email.py python file)
+(Please enter active email ID and valid password (from which email will be sent) in the send_email.py python file. I have hidden password of my email in this file)
 
 Steps of developing this application:
 
